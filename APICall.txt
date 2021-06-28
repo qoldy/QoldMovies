@@ -1,0 +1,28 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
+  "has_more": true,
+  "num_results": 20,
+  "results": [
+    {
+      "display_title": "Lady Boss: The Jackie Collins Story",
+      "mpaa_rating": "TV-14",
+      "critics_pick": 1,
+      "byline": "Jeannette Catsoulis",
+      "headline": "‘Lady Boss: The Jackie Collins Story’ Review: She Did It Her Way",
+      "summary_short": "This dishy, affectionate portrait of the famous writer finds grit beneath the glitz.",
+      "publication_date": "2021-06-27",
+      "opening_date": "2021-06-27",
+      "date_updated": "2021-06-27 21:19:03",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/06/27/movies/lady-boss-the-jackie-collins-story-review.html",
+        "suggested_link_text": "Read the New York Times Review of Lady Boss: The Jackie Collins Story"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/06/25/arts/ladyboss/ladyboss-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
